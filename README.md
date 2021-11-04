@@ -5,3 +5,5 @@ When using a file based hsqldb database it is not possible to create a CACHED ta
 The other way around works just fine.
 
 The problem does not occur in hsqldb 2.5.1.
+
+Bug reported to HSQLDB: https://sourceforge.net/p/hsqldb/bugs/1640/
